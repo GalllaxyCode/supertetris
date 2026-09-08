@@ -1,0 +1,4 @@
+tetris
+tetris.exe
+*.o
+.DS_Store
